@@ -20,7 +20,7 @@
 */
 const planning = "This is the first step, in which the end goal of the software is determined and defined. Developers typically will see what systems are already in place, and determine what features will need to be added." 
 let AnalysisRequirements = "Process used to figure out the needs and what the end goal is of a product "
-let Design = "Code sequences to provide methods of solving more simple challenges"
+let Design = "Sequences of code intended to provide developers with a streamlined method for solving common challenges"
 let Implementation = "The start of programming and putting stuff together"
 let testingIntegration = "Testing to see if you find any problems"
 let maintain = "Just make sure everything is still running good and no problems and if there updat or fix them"

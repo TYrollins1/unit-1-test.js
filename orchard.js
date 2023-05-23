@@ -50,12 +50,16 @@ const pinkPrice = .55
 */
 
 // CODE HERE
-let totalAcres = 0
-for(let i = 0; i + fujiAcres.length + galaAcres.length + pinkAcres.length; i++){
-    if( i = totalAcres <= fujiAcres + galaAcres + pinkAcres)
-    console.log(i)
-    }
 
+let totalAcres = 0
+
+for(let i = 0; i < fujiAcres.length; i++){
+totalAcres += fujiAcres.length[i]
+totalAcres += galaAcres.length[i]
+totalAcres += pinkAcres.length[i]
+}
+
+console.log(totalAcres)
 
 
 
@@ -111,8 +115,6 @@ let acresLeft = 174
 let days = 0
 
 // CODE HERE
-
-
 
 // PROBLEM 4
 
